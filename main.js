@@ -96,7 +96,7 @@ class MainScene extends Phaser.Scene {
         }));
         this.load.addFile(new HTMLImageLoader(this.load, {
             key: 'options',
-            url: 'sprites/options.png'
+            url: 'sprites/Options.png'
         }));
         this.load.addFile(new HTMLImageLoader(this.load, {
             key: 'hintIcon',
